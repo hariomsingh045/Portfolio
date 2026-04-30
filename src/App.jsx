@@ -10,6 +10,8 @@ import NotFound from "./pages/NotFound";
 const queryClient = new QueryClient();
 
 const App = () => (
+  <HashRouter>
+
   <QueryClientProvider client={queryClient}>
     <TooltipProvider>
       <Toaster />
@@ -17,6 +19,7 @@ const App = () => (
       <Index />
     </TooltipProvider>
   </QueryClientProvider>
+  </HashRouter>
 );
 
 export default App;
