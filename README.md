@@ -1,5 +1,5 @@
 # Cyber Skill Hub – Personal Portfolio
-🔗 [Live Portfolio](https://hariom045418.github.io/Portfolio/)
+🔗 [Live Portfolio](https://hariomsingh045.github.io/Portfolio/)
 
 This is my personal portfolio website built to showcase my skills, projects, and learning journey in **Cybersecurity and Web Development**.
 
