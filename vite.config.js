@@ -3,14 +3,14 @@ import react from "@vitejs/plugin-react-swc";
 import path from "path";
 
 export default defineConfig({
-  base: "/My-Portfolio/",
+  base: "/Portfolio/",
 
   server: {
     host: "::",
     port: 8080,
   },
 
-  plugins: [react()],   
+  plugins: [react()],
 
   resolve: {
     alias: {
